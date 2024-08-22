@@ -24,13 +24,13 @@ I’m a passionate software developer from Mumbai, India with a keen interest in
 ## 📈 GitHub Stats
 ![Vrushab123's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushab123&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushab123&layout=compact&theme=radical)](https://github.com/vrushab123)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushab123)
 
-<!-- ## 🖥️ Projects
+## 🖥️ Projects
 Here are a few highlights of the projects I've worked on:
 
-- **[Project 1 Name]** - A brief description of what this project does and any tech used. [Link to project repository]
-- **[Project 2 Name]** - A brief description of what this project does and any tech used. [Link to project repository]
+- **[REACH HER]** - A simple platformer game built by javascript and html5. (https://vrushab123.github.io/PLATFORMER/)
+<!-- - **[Project 2 Name]** - A brief description of what this project does and any tech used. [Link to project repository]
 - **[Project 3 Name]** - A brief description of what this project does and any tech used. [Link to project repository] -->
 
 ## 📫 Connect with me:
