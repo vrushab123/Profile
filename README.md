@@ -29,9 +29,9 @@ I’m a passionate software developer from Mumbai, India with a keen interest in
 ## 🖥️ Projects
 Here are a few highlights of the projects I've worked on:
 
-- **[REACH HER]** - A simple platformer game built by javascript and html5. (https://vrushab123.github.io/PLATFORMER/)
-<!-- - **[Project 2 Name]** - A brief description of what this project does and any tech used. [Link to project repository]
-- **[Project 3 Name]** - A brief description of what this project does and any tech used. [Link to project repository] -->
+- **REACH HER** - A simple platformer game built by javascript and html5. [https://github.com/vrushab123/PLATFORMER]
+- **TANK WARS** - Tank Wars is an action-packed, top-down shooter where you command a 🛡️ tank in a fierce battle against AI-controlled enemy tanks 🤖. [https://github.com/vrushab123/TANK-WARS]
+<!--- **[Project 3 Name]** - A brief description of what this project does and any tech used. [Link to project repository] -->
 
 ## 📫 Connect with me:
 - [LinkedIn](www.linkedin.com/in/vrushab-singadia-80308a261)
