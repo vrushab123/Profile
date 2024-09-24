@@ -33,6 +33,7 @@ Here are a few highlights of the projects I've worked on:
 - **TANK WARS** - Tank Wars is an action-packed, top-down shooter where you command a 🛡️ tank in a fierce battle against AI-controlled enemy tanks 🤖. [https://github.com/vrushab123/TANK-WARS]
 - **REAL ESTATE TEMPLATE** - A Simple but attractive REAL ESTATE TEMPLATE for all the brokers in REAL ESTATE 🤖. [https://vrushab123.github.io/real-estate-template/]
 - **VR EXPERIENCE** - New Great way to view at the things, it is the modern day VR invitation for all my friends🤖. [https://vrushab123.github.io/invitation/]
+- **STOCK-MARKET-TEMPLATE** - Futuristic and Responsive Website Template For brokers in STOCK EXCHANGE. [https://vrushab123.github.io/stock-market-website/index.html]  
 <!--- **[Project 3 Name]** - A brief description of what this project does and any tech used. [Link to project repository] -->
 
 ## 📫 Connect with me:
