@@ -40,6 +40,7 @@ Here are a few highlights of the projects I've worked on:
 - [LinkedIn](www.linkedin.com/in/vrushab-singadia-80308a261)
 <!-- - [Twitter](your-twitter-profile-link) -->
 - [Email](mailto:singadiavrushab@gmail.com)
+- [Instagram](https://www.instagram.com/code_catalyst27/)
 
 <!-- ## 💼 Work Experience
 - **[Your Job Title]** at **[Company Name]**
